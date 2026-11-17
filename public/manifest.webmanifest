@@ -1,0 +1,16 @@
+{
+  "name": "DAFS Sarlu",
+  "short_name": "DAFS",
+  "description": "Plateforme immobilière et architecturale.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F3",
+  "theme_color": "#14263D",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

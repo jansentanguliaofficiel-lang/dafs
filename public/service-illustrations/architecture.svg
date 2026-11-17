@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="108" y1="54" x2="1080" y2="755" gradientUnits="userSpaceOnUse"><stop stop-color="#ECF0E9"/><stop offset="1" stop-color="#B9C9C2"/></linearGradient>
+    <linearGradient id="facade" x1="372" y1="180" x2="886" y2="676" gradientUnits="userSpaceOnUse"><stop stop-color="#F8F6EF"/><stop offset="1" stop-color="#D8D5C9"/></linearGradient>
+    <linearGradient id="side" x1="864" y1="251" x2="1043" y2="633" gradientUnits="userSpaceOnUse"><stop stop-color="#D8D4C8"/><stop offset="1" stop-color="#B8B8AD"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v760H0z"/>
+  <circle cx="974" cy="123" r="126" fill="#D5AC70" fill-opacity=".22"/>
+  <path d="M0 566c185-53 354-73 507-61 167 13 328 68 693 13v242H0V566Z" fill="#9DB3A4" fill-opacity=".55"/>
+  <path d="M0 640c247-54 424-51 593-23 184 31 349 22 607-43v186H0V640Z" fill="#718B7D" fill-opacity=".56"/>
+  <path d="M269 321 658 116l390 204v335H269V321Z" fill="url(#facade)" stroke="#566F63" stroke-opacity=".48" stroke-width="5"/>
+  <path d="m658 116 390 204v335H658V116Z" fill="url(#side)" stroke="#566F63" stroke-opacity=".35" stroke-width="5"/>
+  <path d="m229 328 430-232 433 226-44 26-390-204-389 210-40-26Z" fill="#536E60"/>
+  <path d="M363 342h180v164H363zM735 342h180v164H735z" fill="#5C7B78"/>
+  <path d="M390 369h126v137H390zM762 369h126v137H762z" fill="#BBD1CC" fill-opacity=".78"/>
+  <path d="M455 369v137M826 369v137" stroke="#F1F0E8" stroke-width="8"/>
+  <path d="M569 420h177v213H569z" fill="#B9844A"/>
+  <path d="M598 446h119v187H598z" fill="#324F4D"/>
+  <circle cx="692" cy="540" r="5" fill="#E9D3A6"/>
+  <path d="M269 533h779v106H269z" fill="#CDC9BD" fill-opacity=".52"/>
+  <path d="M209 641h890" stroke="#3C574C" stroke-width="4"/>
+  <path d="M154 641c22-48 42-72 61-72s39 24 61 72M988 641c22-67 48-100 75-100s49 33 72 100" stroke="#4D6B57" stroke-width="12" stroke-linecap="round"/>
+  <path d="M177 641v-62M239 641v-62M1024 641v-89M1097 641v-89" stroke="#4D6B57" stroke-width="9" stroke-linecap="round"/>
+  <path d="M178 570h74M1024 552h74" stroke="#4D6B57" stroke-width="10" stroke-linecap="round"/>
+  <path d="M349 542h580" stroke="#F8F6EF" stroke-opacity=".7" stroke-width="5"/>
+  <path d="M112 155h146M112 177h91" stroke="#516F62" stroke-opacity=".22" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1033" cy="125" r="5" fill="#C49354"/><circle cx="1080" cy="173" r="3" fill="#C49354"/>
+</svg>
